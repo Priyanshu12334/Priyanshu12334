@@ -22,17 +22,20 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
-📧 Email:
-<b>suyalpriyanshu2@gmail.com</b>
-<br>
+<p align="center">
 
-💼 LinkedIn
-https://www.linkedin.com/in/priyanshu-suyal-5732b224a
-<br>
+<a href="mailto:suyalpriyanshu2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 GitHub
-https://github.com/Priyanshu12334
+<a href="https://www.linkedin.com/in/priyanshu-suyal-5732b224a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Priyanshu12334">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
