@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://priyanshu12334.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
 </a>
 
 </p>
