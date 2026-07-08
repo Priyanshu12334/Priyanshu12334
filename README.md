@@ -22,34 +22,6 @@
 
 ---
 
-# 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
