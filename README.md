@@ -54,83 +54,19 @@
 
 ---
 
-# ⭐ Featured Projects
-
-### 🚀 TaskPilot
-
-A Full Stack MERN Task Management Platform featuring authentication, role-based access, dashboard analytics, and team collaboration.
-
----
-
-### 💬 Full Stack Chat Application
-
-Real-time chat application using MERN Stack and Socket.io with JWT Authentication.
-
----
-
-### 🤖 Wellora
-
-AI Powered Health Companion with OCR, Nutrition Coach, Health Score, and AI Insights.
-
----
-
-### 💻 CodePilot
-
-AI Code Reviewer built using React, Node.js, Express.js, MongoDB and Gemini API.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu12334&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu12334&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu12334&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu12334&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
-
 📧 Email:
 <b>suyalpriyanshu2@gmail.com</b>
-
-<br><br>
+<br>
 
 💼 LinkedIn
-
 https://www.linkedin.com/in/priyanshu-suyal-5732b224a
-
-<br><br>
+<br>
 
 💻 GitHub
-
 https://github.com/Priyanshu12334
-
 </p>
 
 ---
