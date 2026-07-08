@@ -15,7 +15,6 @@
 
 </p>
 
----
 
 # 👨‍💻 About Me
 
@@ -25,7 +24,6 @@
 - 🌱 Currently improving DSA & System Design
 - 🚀 Looking for Software Engineer / Full Stack Developer opportunities
 
----
 
 ## 📫 Connect With Me
 
