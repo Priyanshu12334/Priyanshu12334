@@ -36,9 +36,3 @@ https://www.linkedin.com/in/priyanshu-suyal-5732b224a
 💻 GitHub
 https://github.com/Priyanshu12334
 </p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
