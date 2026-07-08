@@ -1,14 +1,10 @@
-<h1 align="center">
-  Hi 👋 I'm Priyanshu Suyal
-</h1>
-
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Priyanshu+Suyal+%F0%9F%91%8B;Full+Stack+MERN+Developer;Building+AI+Powered+Web+Applications;Open+to+Software+Engineer+Opportunities)](https://git.io/typing-svg)
 
 </p>
 
-<p align="center">
+<p>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanshu12334&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
