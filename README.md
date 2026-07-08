@@ -4,9 +4,10 @@
 
 </p>
 
+---
 <br>
 
-<p>  Full Stack MERN Developer </p>
+<p align="center">  Full Stack MERN Developer </p>
 
 <p>
 
