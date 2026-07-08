@@ -17,7 +17,7 @@
 - 🎓 B.Tech CSE Graduate
 - 💻 Full Stack MERN Developer
 - 🤖 Passionate about AI Powered Web Applications
-- 🌱 Currently improving DSA & System Design
+- 🌱 Improving DSA & System Design
 - 🚀 Looking for Software Engineer / Full Stack Developer opportunities
 
 
