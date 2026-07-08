@@ -7,7 +7,7 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu12334&label=Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu12334&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 # 👨‍💻 About Me
