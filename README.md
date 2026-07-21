@@ -12,11 +12,12 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Graduate
-- 💻 Full Stack MERN Developer
-- 🤖 Passionate about AI Powered Web Applications
-- 🌱 Improving DSA & System Design
-- 🚀 Looking for Software Engineer / Full Stack Developer opportunities
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Full Stack Developer (MERN Stack)
+- ⚛️ Building scalable web applications with React.js, Node.js, Express.js & MongoDB
+- 🔐 Experienced with REST APIs, JWT Authentication & Socket.io
+- 🤖 Interested in AI-powered applications and modern web technologies
+- 🚀 Open to Full Stack, React.js & Node.js Developer opportunities
 
 
 ## 📫 Connect With Me
