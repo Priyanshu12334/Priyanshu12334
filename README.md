@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://priyanshu12334.github.io/Portfolio/">
+<a href="https://portfolio-ten-blond-87.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
 </a>
 
