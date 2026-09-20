@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 💻 Full Stack Developer (MERN Stack)
-- ⚛️ Building scalable web applications with React.js, Node.js, Express.js & MongoDB
+- ⚛️ Building scalable web applications with React.js, Node.js, Express.js, Redis & MongoDB
 - 🔐 Experienced with REST APIs, JWT Authentication & Socket.io
 - 🤖 Interested in AI-powered applications and modern web technologies
 - 🚀 Open to Full Stack, React.js & Node.js Developer opportunities
