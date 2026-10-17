@@ -12,28 +12,30 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Full Stack Developer (MERN Stack)
-- ⚛️ Building scalable web applications with React.js, Node.js, Express.js, Redis & MongoDB
-- 🔐 Experienced with REST APIs, JWT Authentication & Socket.io
-- 🤖 Interested in AI-powered applications and modern web technologies
-- 🚀 Open to Full Stack, React.js & Node.js Developer opportunities
+- 🎓 B.Tech in Computer Science & Engineering (2026)
+- 💼 **Full Stack Developer (MERN)** | Former MERN Stack Developer Intern
+- 🚀 Building scalable, secure & production-ready web applications
+- ⚡ Skilled in **React.js, Node.js, Express.js, MongoDB, PostgreSQL & Redis**
+- 🔐 Experienced with **REST APIs, JWT, RBAC, Socket.IO & Docker**
+- 🤖 Integrating **AI/LLMs** into real-world applications
+- 🛠️ Built **TaskPilot, Wellora & ChatCrypt** — Full Stack, AI & Real-Time Projects
+- 🎯 **Open to Software Engineer, Full Stack & Backend Developer roles**
 
 
 ## 📫 Connect With Me
 
 <p align="center">
 
-<a href="mailto:suyalpriyanshu2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/priyanshu-suyal-5732b224a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:suyalpriyanshu2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://portfolio-ten-blond-87.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
-</a>
+</a> 
 
 </p>
