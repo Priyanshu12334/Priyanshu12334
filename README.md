@@ -6,10 +6,6 @@
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Priyanshu12334&label=Profile%20Views&color=0e75b6&style=flat-square&base=2000" alt="Profile Views"/>
-</p>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2026)
