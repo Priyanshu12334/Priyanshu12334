@@ -14,7 +14,6 @@
 - ⚡ Skilled in **React.js, Node.js, Express.js, MongoDB, PostgreSQL & Redis**
 - 🔐 Experienced with **REST APIs, JWT, RBAC, Socket.IO & Docker**
 - 🤖 Integrating **AI/LLMs** into real-world applications
-- 🛠️ Built **TaskPilot, Wellora & ChatCrypt** — Full Stack, AI & Real-Time Projects
 - 🎯 **Open to Software Engineer, Full Stack & Backend Developer roles**
 
 
