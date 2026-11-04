@@ -8,19 +8,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Graduate (2026)
+* 🎓 B.Tech Computer Science Graduate (2026)
 
-💻 Full Stack Developer specializing in MERN Stack.
+* 💻 Full Stack Developer specializing in MERN Stack.
 
-🚀 Passionate about building scalable, secure, and production-ready web applications.
+* 🚀 Passionate about building scalable, secure, and production-ready web applications.
 
-⚡ Experienced in React.js, Node.js, Express.js, MongoDB, PostgreSQL and REST APIs.
+* ⚡ Experienced in React.js, Node.js, Express.js, MongoDB, PostgreSQL and REST APIs.
 
-🤖 Exploring AI integrations, RAG and Generative AI applications.
+* 🤖 Exploring AI integrations, RAG and Generative AI applications.
 
-🐳 Familiar with Docker, GitHub Actions and CI/CD workflows.
+* 🐳 Familiar with Docker, GitHub Actions and CI/CD workflows.
 
-🎯 Currently looking for Full Stack Developer / Backend Developer / SDE-1 opportunities.
+* 🎯 Currently looking for Full Stack Developer / Backend Developer / SDE-1 opportunities.
 
 
 ## 📫 Connect With Me
