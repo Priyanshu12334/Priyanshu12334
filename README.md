@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (2026)
-- 💼 **Full Stack Developer (MERN)** | Former MERN Stack Developer Intern
+- 🎓 B.Tech CSE Graduate (2026)
+- 💼 **Full Stack Developer** | Former MERN Stack Developer Intern
 - 🚀 Building scalable, secure & production-ready web applications
 - ⚡ Skilled in **React.js, Node.js, Express.js, MongoDB, PostgreSQL & Redis**
 - 🔐 Experienced with **REST APIs, JWT, RBAC, Socket.IO & Docker**
