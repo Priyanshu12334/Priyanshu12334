@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-*🎓 B.Tech Computer Science Graduate (2026)
+* 🎓 B.Tech Computer Science Graduate (2026)
 
 * 💻 Full Stack Developer specializing in MERN Stack.
 
